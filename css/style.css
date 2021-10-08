@@ -1,0 +1,19 @@
+@font-face{
+    font-family: 'PT Sans', sans-serif;
+}
+*{
+    font-family: 'PT Sans', sans-serif;
+}
+/* header */
+header{
+    background-color: #fcdb00;
+    padding: 10px 0;
+}
+.menu ul li{
+    padding: 0 40px;
+}
+.menu ul li a{
+    font-weight: 700;
+    font-size: 22px;
+    color: #010101 !important;
+}
