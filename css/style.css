@@ -18,6 +18,7 @@ header{
     font-weight: 700;
     font-size: 22px;
     color: #010101 !important;
+    padding: 0 40px;
 }
 
 /* Slider section start */
@@ -28,6 +29,7 @@ header{
 
 .inspire{
     color: #010101;
+    margin-top: 60px;
 }
 
 .inspire h1{
