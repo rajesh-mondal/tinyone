@@ -9,11 +9,38 @@ header{
     background-color: #fcdb00;
     padding: 10px 0;
 }
+
 .menu ul li{
     padding: 0 40px;
 }
+
 .menu ul li a{
     font-weight: 700;
     font-size: 22px;
     color: #010101 !important;
+}
+
+/* Slider section start */
+.slider{
+    background-color: #fcdb00;
+    padding: 40px 0;
+}
+
+.inspire{
+    color: #010101;
+}
+
+.inspire h1{
+    font-size: 32px;
+    margin-bottom: 10px;
+}
+
+.inspire h3{
+    font-size: 20px;
+    margin-bottom: 10px;
+}
+
+.inspire ul li i{
+    font-size: 35px;
+    padding: 0 10px;
 }
