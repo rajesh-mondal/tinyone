@@ -66,3 +66,23 @@ header{
 .car-ind .active{
     background-color: #010101;
 }
+
+/* Features css start */
+.features{
+    padding: 80px;
+}
+.title h1{
+    font-size: 32px;
+    font-weight: 700;
+    color: #010101;
+}
+.title p{
+    font-size: 20px;
+}
+.icon i{
+    font-size: 45px;
+    color: #010101;
+}
+.icon-content h1{
+    font-size: 22px;
+}
