@@ -21,6 +21,9 @@
 	.menu{
 		text-align: right;
 	}
+	.pr-0{
+		padding-right: 15px !important;
+	}
 }
 
 /* Medium devices (tablets, 768px and up) */
