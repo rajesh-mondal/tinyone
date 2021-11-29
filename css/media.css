@@ -11,6 +11,12 @@
 	.menu{
 		text-align: right;
 	}
+	.t-center{
+		text-align: center;
+	}
+	.mb-custom{
+		margin-bottom: 15px;
+	}
 }
 
 /* Small devices (landscape phones, 576px and up) */
