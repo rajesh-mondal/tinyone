@@ -96,3 +96,11 @@ input{
     padding: 10px 15px;
     color: #898989;
 }
+.btn-custom{
+    padding: 10px 15px;
+    font-size: 16px;
+    font-weight: 600;
+    color: #010101;
+    background-color: #fcdb00;
+    text-transform: uppercase;
+}
