@@ -105,3 +105,6 @@ header{
     background-color: #fcdb00;
     text-transform: uppercase;
 }
+.social ul li i{
+    font-size: 40px;
+}
